@@ -1,13 +1,10 @@
-# Auteur 
+# Auteur et projet 
   | Auteur | WAYORO DEIGNAN | 
   | :--- | :----: |
+  | Projet |  Application de Gestion des Notes pour une École |
   | Date de Conception |  29/07/2024 |
 
-# Date de Conception :  29/07/2024
-# Application de Gestion des Notes pour une École
 
-
-  
 
 ## Objectif
 
